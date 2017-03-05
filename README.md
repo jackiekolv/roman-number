@@ -9,7 +9,7 @@ Reference to class "kingcaesar.math.RomanNumber"<br>
   Step 5. Compact the result before return.<br>
 <br>
 # Import project
-You can import this project to eclise or your IDE and try to run main method at class "App".<br>
+You can import this project to eclipse or your IDE and try to run main method at class "App".<br>
 The execution need input.txt file that provided in project already.<br>
 You can edit or add addition of Roman number for testing my code.<br>
 If there any comment or suggestion please let me know.<br>
