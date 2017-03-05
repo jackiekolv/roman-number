@@ -1,0 +1,8 @@
+// Supported symbols is M,D,C,L,X,V,I
+XX+II
+II+II
+XIV+LX
+V+V
+
+XX+IV+IV+IV+IV+IV+IV
+MCDXLIX+MCDXLIX+MCDXLIX
